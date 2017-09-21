@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## A New Post
-
 Dies ist ein weiterer Test für [meine Website](google.com). Ich bin mir noch nicht sicher, ob das alles so klappen wird, wie ich es mir vorstelle aber ich hoffe es einfach mal...
 
 Hier füge ich zum Test mal ein Bild ein, das sollte schon ein wenig Eindruck schinden.
