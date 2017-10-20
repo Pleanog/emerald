@@ -7,5 +7,7 @@ Hier füge ich zum Test mal ein Bild ein, das sollte schon ein wenig Eindruck sc
 
 ![Einfach nur ein Bild]({{site.baseurl}}/_posts/Logo_Katze.png)
 
+**swag**
+
 Die Frage ist was noch alles Möglich ist, was kann ich noch alles machen in prose.io?
 Kann man **html** einfügen oder gar js und css, um ein slider einzufügen. Damit jeder Post einzigartig werden kann und funktionaler und media-enriched.
